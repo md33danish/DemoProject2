@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Argha\\Desktop\\ProjectTest\\EngineersAppWebCore.csproj": {}
+    "C:\\Users\\Argha\\Desktop\\Danish Project\\EngineersAppWebCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Argha\\Desktop\\ProjectTest\\EngineersAppWebCore.csproj": {
+    "C:\\Users\\Argha\\Desktop\\Danish Project\\EngineersAppWebCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Argha\\Desktop\\ProjectTest\\EngineersAppWebCore.csproj",
+        "projectUniqueName": "C:\\Users\\Argha\\Desktop\\Danish Project\\EngineersAppWebCore.csproj",
         "projectName": "EngineersAppWebCore",
-        "projectPath": "C:\\Users\\Argha\\Desktop\\ProjectTest\\EngineersAppWebCore.csproj",
+        "projectPath": "C:\\Users\\Argha\\Desktop\\Danish Project\\EngineersAppWebCore.csproj",
         "packagesPath": "C:\\Users\\Argha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Argha\\Desktop\\ProjectTest\\obj\\",
+        "outputPath": "C:\\Users\\Argha\\Desktop\\Danish Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
