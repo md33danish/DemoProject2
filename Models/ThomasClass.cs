@@ -2,6 +2,6 @@
 {
     public class ThomasClass
     {
-        public int ID { get; set; }
+        
     }
 }
