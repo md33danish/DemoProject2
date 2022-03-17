@@ -7,5 +7,6 @@ namespace EngineersAppWebCore.Data
 {
     public class testclass
     {
+        int i = 10;
     }
 }
