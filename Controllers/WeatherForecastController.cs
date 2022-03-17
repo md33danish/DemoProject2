@@ -23,6 +23,7 @@ namespace EngineersAppWebCore.Controllers
                 {
             try
             {
+                int i = 10;
 
                 var getuser = db.Users.Where(d => !string.IsNullOrEmpty(d.UserName) && d.UserName.Trim().ToLower() == username.Trim().ToLower()).FirstOrDefault();
                 if (getuser != null)
